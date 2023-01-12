@@ -1,0 +1,4 @@
+[23-Sep-2022 17:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/v2appclykk/public_html/routing_management/public/phpinfo.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/v2appclykk/public_html/routing_management/public/phpinfo.php on line 2
